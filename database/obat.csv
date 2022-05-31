@@ -1,0 +1,11 @@
+id_obat,nama_obat,stok,harga,desc,url_image
+AM001,RHINOS SR,20,75000,10 Kapsul/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/28fa98fa-4d2e-4015-8047-12d88b1c95f6_product_image_url.webp
+AM002,PARACETAMOL,20,5000,500mg 10 Kaplet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/de2e8223-2622-4861-a47f-64b14e8ed8d5_product_image_url.webp
+AM003,LANSOPRAZOLE,20,13500,30mg 10 Kapsul/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/8bbf944b-4987-4712-9268-99094031978a_product_image_url.webp
+AM004,AZITHROMYCIN,20,9200,500mg Tablet/Tablet,https://d2qjkwm11akmwu.cloudfront.net/products/671298_10-2-2021_10-35-13.webp
+AM005,AMOXICILLIN,20,8400,500mg 10 Kaplet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/18dc1aee-4d48-495e-b323-40f954d1b16f_product_image_url.webp
+AM006,VENTOLIN INHALER,20,143000,100mcg 200 Doses/Botol,https://d2qjkwm11akmwu.cloudfront.net/products/dfc3a9dd-bfba-4fbb-8665-6c0f36ffaf6d_product_image_url.webp
+AM007,PANADOL EXTRA,18,15000,10 Kaplet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/58848e98-7b22-486e-81b9-d58e393ef250_product_image_url.webp
+AM008,IBUPROFEN,20,6700,200mg 10 Tablet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/95b10b19-96b5-4002-91a4-67e2a7b1ea52_product_image_url.webp
+AM009,SANMOL,16,3900,500mg 4 Tablet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/daf98ec4-d04d-434b-bcce-19866070216b_product_image_url.webp
+AM010,PANADOL FLU,20,9000,500mg 10 Kaplet/Strip,https://d2qjkwm11akmwu.cloudfront.net/products/f96d73f7-2b9f-4834-9c42-7390e1519dfe_product_image_url.webp

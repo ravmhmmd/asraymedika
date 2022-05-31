@@ -1,0 +1,14 @@
+image: python:latest
+
+before_script:
+  - pip install pytest
+
+stages:
+  - test
+
+pytest:
+  stage: test
+  script:
+  - pytest ./src/test_bag.py
+  - pytest ./src/test_inputreceipt.py
+  - pytest ./src/test_obat.py
